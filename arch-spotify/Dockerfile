@@ -1,4 +1,4 @@
-FROM escalade1/arch-chrome:latest
+FROM arch-chrome:latest
 
 MAINTAINER escalade
 
