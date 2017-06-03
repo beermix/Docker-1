@@ -1,4 +1,4 @@
-FROM escalade1/arch:latest
+FROM arch:latest
 
 MAINTAINER escalade
 
